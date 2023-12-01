@@ -1,0 +1,64 @@
+References
+FlexSlider. WooCommerce. (2021). Retrieved 7 November 2021, from https://woocommerce.com/flexslider/.
+
+Photo by Austin Distel on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/x1J0zj63ZjM.
+
+Photo by bruce mars on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/AndE50aaHn4.
+
+Photo by CardMapr on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/s8F8yglbpjo.
+
+Photo by Gerald Schömbs on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/GBDkr3k96DE.
+
+Photo by Gerald Schömbs on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/titrLVi32F8.
+
+Photo by Glenn Carstens-Peters on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/npxXWgQ33ZQ.
+
+Photo by İrfan Simsar on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/_XQweX-RTIY.
+
+Photo by Jamie Street on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/p2ifKHu3dXM.
+
+Photo by Karen Neri on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/z4STHdEZ-SY.
+
+Photo by Marek Okon on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/eRGe-x7lI1Q.
+
+Photo by Marliese Streefland on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/2l0CWTpcChI.
+
+Photo by Michael Dam on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/mEZ3PoFGs_k.
+
+Photo by Scott Warman on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/h4AGlo55tTA.
+
+Photo by Stefan Vladimirov on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/Q_Moi2xjieU.
+
+How To Make a Modal Box With CSS and JavaScript. W3schools.com. (2021). Retrieved 7 November 2021, from https://www.w3schools.com/howto/howto_css_modals.asp.
+
+Photo by alan caishan on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/cU53ZFBr3lk.
+
+Photo by Austin Chan on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/ukzHlkoz1IE.
+
+Photo by bruce mars on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/ieIY61ZHhs8.
+
+Photo by Dmitriy Frantsev on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/rjSnhPy3bxI.
+
+Photo by George Pagan III on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/f-PH16nZHKI.
+
+Photo by Ishan @seefromthesky on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/gtt803WswnA.
+
+Photo by Jakob Owens on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/hAV_4Cl-jJg.
+
+Photo by John Matychuk on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/Af8ZjGMsHKQ.
+
+Photo by Jon Tyson on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/8MMtYM_3xMY.
+
+Photo by Miles Burke on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/idhx-MOCDSk.
+
+Photo by Volodymyr Hryshchenko on Unsplash. Unsplash.com. (2021). Retrieved 7 November 2021, from https://unsplash.com/photos/V5vqWC9gyEU.
+
+Burke, M. (2020, August 4). Photo by Miles Burke on unsplash. Beautiful Free Images &amp; Pictures. Retrieved November 7, 2021, from https://unsplash.com/photos/idhx-MOCDSk. 
+
+Davis, S. (2019, April 23). Photo by Spencer Davis on unsplash. Beautiful Free Images &amp; Pictures. Retrieved November 7, 2021, from https://unsplash.com/photos/VZlCejYaD5Y.
+ 
+Google. (n.d.). Google maps. Retrieved November 8, 2021, from https://www.google.com/maps. 
+
+Hagy, Z. (2017, December 18). Photo by Zachariah Hagy on unsplash. Beautiful Free Images &amp; Pictures. Retrieved November 7, 2021, from https://unsplash.com/photos/9nGnd9o-DJM.
+ 
+Rounce, S. (2017, March 11). Photo by Shane Rounce on unsplash. Beautiful Free Images &amp; Pictures. Retrieved November 7, 2021, from https://unsplash.com/photos/ErcnD7oLEhE. 
